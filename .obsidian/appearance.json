@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 17,
+  "accentColor": "#b6bfc3",
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "cb6cba66aaf62cdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "6577e9d418011019",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94d9062df7991538",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fishkeeping.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f78243881970d525",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4108252ff7198362",
+    "type": "split",
+    "children": [
+      {
+        "id": "79063ac925d665c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b18ccb71597369f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d7a2cd1c21fae7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe37ce16e5022e55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 206.5
+  },
+  "right": {
+    "id": "607cbfae7a2e54fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e8d04f8d92a4a4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b822762882a4b47f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "fishkeeping.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "05ab31a887328835",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca4c737548b83bc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "fishkeeping.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
+      "obsidian-kanban:创建新看板": false
+    }
+  },
+  "active": "94d9062df7991538",
+  "lastOpenFiles": [
+    "2025-01-20-工作.md",
+    "0-开发技术/读 阮一峰.md",
+    "2025-01-17-阮一峰.md",
+    "2025-01-20-虚拟滚动.md",
+    "2025-01-17-工作.md",
+    "01-工作记录/工作日志.md",
+    "0-开发技术/vue2.md",
+    "0-开发技术/python.md",
+    "0-开发技术/技术细节-vue.md",
+    "0-开发技术/ai.md",
+    "0-开发技术/前端架构.md",
+    "2025-01-17-工程化.md",
+    "zs/3-行政/账号记录.md",
+    "01-工作记录/工作关键记录点.md",
+    "zs/1-开发/低代码自动整理.md",
+    "99-记忆仓库/detail.vue.md",
+    "2025-01-16-vue2.md",
+    "99-记忆仓库/2025-01-16-土增项目分析.md",
+    "00-业务相关/业务记录与理解.md",
+    "2025-01-16-工作.md",
+    "zs/1-开发/低代码平台.md",
+    "07-工具记录/开发工具.md",
+    "2-思考总结/对个人开发的持续整理与总结.md",
+    "detail.vue.txt",
+    "工作-2025-01-16.md",
+    "0-开发技术/低代码开发.md",
+    "zs/2-会议/中税会议记录-2025-01-08.md",
+    "01-工作记录",
+    "00-业务相关",
+    "template/extended-colorschemes.css",
+    "diary",
+    "zs/3-行政",
+    "zs/2-会议",
+    "zs/1-开发",
+    "zs",
+    "未命名文件夹",
+    "未命名.canvas",
+    "Pasted image 20240109180012.png",
+    "分享/2023-07-25-name-meaning/image-8.png",
+    "Images/git-merging.png",
+    "分享/2023-07-25-name-meaning/image-7.png",
+    "分享/2023-07-25-name-meaning/image-6.png",
+    "分享/2023-07-25-name-meaning/image-5.png",
+    "分享/2023-07-25-name-meaning/image-4.png",
+    "分享/2023-07-25-name-meaning/image-3.png",
+    "Images/Xnip2022-08-09_10-47-27.jpg",
+    "Images/image-8.png"
+  ]
+}
