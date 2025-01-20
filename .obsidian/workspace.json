@@ -13,19 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fishkeeping.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "f78243881970d525",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -94,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fishkeeping.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fishkeeping.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,6 +139,8 @@
   },
   "active": "94d9062df7991538",
   "lastOpenFiles": [
+    "README.md",
+    "fishkeeping.md",
     "2025-01-20-工作.md",
     "0-开发技术/读 阮一峰.md",
     "2025-01-17-阮一峰.md",
@@ -172,8 +166,6 @@
     "2-思考总结/对个人开发的持续整理与总结.md",
     "detail.vue.txt",
     "工作-2025-01-16.md",
-    "0-开发技术/低代码开发.md",
-    "zs/2-会议/中税会议记录-2025-01-08.md",
     "01-工作记录",
     "00-业务相关",
     "template/extended-colorschemes.css",
