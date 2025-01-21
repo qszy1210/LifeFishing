@@ -133,8 +133,8 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
-      "obsidian-kanban:创建新看板": false
+      "obsidian-kanban:创建新看板": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "94d9062df7991538",
