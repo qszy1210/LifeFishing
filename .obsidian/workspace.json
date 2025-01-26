@@ -114,9 +114,17 @@
                 "file": "README.md"
               }
             }
+          },
+          {
+            "id": "70a1f4f8a83ddc46",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -139,8 +147,13 @@
   },
   "active": "94d9062df7991538",
   "lastOpenFiles": [
+    "src/housing.md",
+    "src",
+    "transportation.md",
+    "src/food.md",
+    "src/clothing.md",
+    "src/fishkeeping.md",
     "README.md",
-    "fishkeeping.md",
     "2025-01-20-工作.md",
     "0-开发技术/读 阮一峰.md",
     "2025-01-17-阮一峰.md",
@@ -161,11 +174,7 @@
     "99-记忆仓库/2025-01-16-土增项目分析.md",
     "00-业务相关/业务记录与理解.md",
     "2025-01-16-工作.md",
-    "zs/1-开发/低代码平台.md",
-    "07-工具记录/开发工具.md",
-    "2-思考总结/对个人开发的持续整理与总结.md",
     "detail.vue.txt",
-    "工作-2025-01-16.md",
     "01-工作记录",
     "00-业务相关",
     "template/extended-colorschemes.css",
@@ -174,7 +183,6 @@
     "zs/2-会议",
     "zs/1-开发",
     "zs",
-    "未命名文件夹",
     "未命名.canvas",
     "Pasted image 20240109180012.png",
     "分享/2023-07-25-name-meaning/image-8.png",
