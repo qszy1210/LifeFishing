@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/working.md",
+                "file": "src/housing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/working.md",
+                "file": "src/housing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/working.md"
+                "file": "src/housing.md"
               }
             }
           },
@@ -147,12 +147,13 @@
   },
   "active": "42658dfcd3386b9f",
   "lastOpenFiles": [
-    "src/working.md",
-    "README.md",
+    "src/food.md",
     "src/housing.md",
+    "src/working.md",
+    "2025-02-09.md",
+    "README.md",
     "src",
     "transportation.md",
-    "src/food.md",
     "src/clothing.md",
     "src/fishkeeping.md",
     "2025-01-20-工作.md",
@@ -173,7 +174,6 @@
     "99-记忆仓库/detail.vue.md",
     "2025-01-16-vue2.md",
     "99-记忆仓库/2025-01-16-土增项目分析.md",
-    "00-业务相关/业务记录与理解.md",
     "detail.vue.txt",
     "01-工作记录",
     "00-业务相关",
