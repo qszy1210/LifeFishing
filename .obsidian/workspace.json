@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "296c729ff7d416ce",
+        "id": "926b0228acff57d5",
         "type": "tabs",
         "children": [
           {
-            "id": "253ba2dd2e8b6371",
+            "id": "67de31a2c760bd94",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,8 +137,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "253ba2dd2e8b6371",
+  "active": "67de31a2c760bd94",
   "lastOpenFiles": [
+    "2025-03-01.md",
     "src/housing.md",
     "src/food.md",
     "src/working.md",
@@ -165,7 +166,6 @@
     "zs/1-开发/低代码自动整理.md",
     "99-记忆仓库/detail.vue.md",
     "2025-01-16-vue2.md",
-    "99-记忆仓库/2025-01-16-土增项目分析.md",
     "detail.vue.txt",
     "01-工作记录",
     "00-业务相关",
